@@ -1,14 +1,14 @@
-установка
+ГіГ±ГІГ Г­Г®ГўГЄГ 
 ---------------------------------------------
 pkg install git
 pkg install python
 pip install upgrade -m
-git clone https:\\github.com\Topo1us\voron.git
+git clone https:\\github.com\1opo1us\voron.git
 cd voron
 chmod +x wer.sh
 pip install -r modul.txt
 ./wer.sh
 ---------------------------------------------
-запуск
+Г§Г ГЇГіГ±ГЄ
 ./topo1us.sh
 
