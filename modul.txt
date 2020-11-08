@@ -1,0 +1,8 @@
+socket
+requests
+scapy
+wget
+argparse
+colorama
+humanfriendly
+html2text

@@ -1,0 +1,14 @@
+установка
+---------------------------------------------
+pkg install git
+pkg install python
+pip install upgrade -m
+git clone https:\\github.com\Topo1us\voron.git
+cd voron
+chmod +x wer.sh
+pip install -r modul.txt
+./wer.sh
+---------------------------------------------
+запуск
+./topo1us.sh
+
