@@ -192,7 +192,7 @@ password    - коды и пароли доступа.
         try:
             target=input('номер: ')
             time_atack=input('время атаки в секундах: ')
-            os.system(r'python voron/Impulse/impulse.py --method SMS --target '+str(target)+' --time '+str(time_atack)+' --threads 135')
+            os.system(r'python Impulse/impulse.py --method SMS --target '+str(target)+' --time '+str(time_atack)+' --threads 135')
         except:
             print('Ковальски, у нас ошибкаlll.')
 ########################
